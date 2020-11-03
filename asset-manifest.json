@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/user-generator/static/css/main.93c12015.chunk.css",
+    "main.js": "/user-generator/static/js/main.aa2f8df6.chunk.js",
+    "main.js.map": "/user-generator/static/js/main.aa2f8df6.chunk.js.map",
+    "runtime-main.js": "/user-generator/static/js/runtime-main.dfc13f43.js",
+    "runtime-main.js.map": "/user-generator/static/js/runtime-main.dfc13f43.js.map",
+    "static/js/2.5adee668.chunk.js": "/user-generator/static/js/2.5adee668.chunk.js",
+    "static/js/2.5adee668.chunk.js.map": "/user-generator/static/js/2.5adee668.chunk.js.map",
+    "static/js/3.c15f18d2.chunk.js": "/user-generator/static/js/3.c15f18d2.chunk.js",
+    "static/js/3.c15f18d2.chunk.js.map": "/user-generator/static/js/3.c15f18d2.chunk.js.map",
+    "index.html": "/user-generator/index.html",
+    "static/css/main.93c12015.chunk.css.map": "/user-generator/static/css/main.93c12015.chunk.css.map",
+    "static/js/2.5adee668.chunk.js.LICENSE.txt": "/user-generator/static/js/2.5adee668.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfc13f43.js",
+    "static/js/2.5adee668.chunk.js",
+    "static/css/main.93c12015.chunk.css",
+    "static/js/main.aa2f8df6.chunk.js"
+  ]
+}
